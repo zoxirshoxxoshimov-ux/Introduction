@@ -1,0 +1,14 @@
+F:\study\Introduction\obj\Debug\net10.0\Introduction.GeneratedMSBuildEditorConfig.editorconfig
+F:\study\Introduction\obj\Debug\net10.0\Introduction.AssemblyInfoInputs.cache
+F:\study\Introduction\obj\Debug\net10.0\Introduction.AssemblyInfo.cs
+F:\study\Introduction\obj\Debug\net10.0\Introduction.csproj.CoreCompileInputs.cache
+F:\study\Introduction\bin\Debug\net10.0\Introduction.exe
+F:\study\Introduction\bin\Debug\net10.0\Introduction.deps.json
+F:\study\Introduction\bin\Debug\net10.0\Introduction.runtimeconfig.json
+F:\study\Introduction\bin\Debug\net10.0\Introduction.dll
+F:\study\Introduction\bin\Debug\net10.0\Introduction.pdb
+F:\study\Introduction\obj\Debug\net10.0\Introduction.dll
+F:\study\Introduction\obj\Debug\net10.0\refint\Introduction.dll
+F:\study\Introduction\obj\Debug\net10.0\Introduction.pdb
+F:\study\Introduction\obj\Debug\net10.0\Introduction.genruntimeconfig.cache
+F:\study\Introduction\obj\Debug\net10.0\ref\Introduction.dll
